@@ -1,0 +1,9 @@
+{
+  "entity.sheepboss.boss_sheep": "Boss Sheep",
+  "entity.sheepboss.angry_sheep": "Angry Sheep",
+  "item.sheepboss.sheep_bazooka": "Sheep Bazooka",
+  "item.sheepboss.boss_sheep_spawn_egg": "Boss Sheep Spawn Egg",
+  "message.sheepboss.awaken": "The Boss Sheep awakens!",
+  "message.sheepboss.wave": "The Boss Sheep summons its flock!",
+  "message.sheepboss.no_ammo": "You need black wool as ammo!"
+}

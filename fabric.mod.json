@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "sheepboss",
+  "version": "${version}",
+  "name": "Sheep Boss",
+  "description": "Giant boss sheep with eye lasers, sheep waves and a black-sheep bazooka.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.sheepboss.SheepBossMod"],
+    "client": ["com.example.sheepboss.client.SheepBossClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "entity.sheepboss.boss_sheep": "Овца-босс",
+  "entity.sheepboss.angry_sheep": "Злая овца",
+  "item.sheepboss.sheep_bazooka": "Овцебазука",
+  "item.sheepboss.boss_sheep_spawn_egg": "Яйцо призыва овцы-босса",
+  "message.sheepboss.awaken": "Овца-босс пробудилась!",
+  "message.sheepboss.wave": "Овца-босс призывает стадо!",
+  "message.sheepboss.no_ammo": "Нужна чёрная шерсть в качестве патронов!",
+  "message.sheepboss.dodge": "§cОВЦА-СНАРЯД! §fНажми Shift, чтобы уклониться!",
+  "message.sheepboss.phase2": "§c§lФАЗА 2: ОВЦА-БОТ АКТИВИРОВАНА!"
+}
